@@ -1,0 +1,13 @@
+---
+name: mirror.hostingviet.vn/almalinux/
+address:
+  http: http://mirror.hostingviet.vn/almalinux/
+  https: https://mirror.hostingviet.vn/almalinux/
+update_frequency: 3h
+sponsor: Thien Quang Digital Technology Joint Stock Company
+sponsor_url: https://hostingviet.vn/
+email: kythuat@hostingviet.vn
+geolocation:
+  country: VN
+  city: Ha Noi
+asn: AS140825 HOSTINGVIET-AS-VN
